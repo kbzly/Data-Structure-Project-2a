@@ -1,0 +1,8 @@
+COMMENT: Non-Integer Prices Requiring Median Calculation 3 11 12 13 
+MODE: TL
+NUM_TRADERS: 20
+NUM_STOCKS: 25
+0 SELL T0 S0 $50 #10
+1 BUY T1 S0 $50 #10
+2 SELL T2 S0 $51 #10
+3 BUY T3 S0 $51 #10

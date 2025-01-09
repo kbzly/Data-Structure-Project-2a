@@ -1,0 +1,12 @@
+COMMENT: Orders Crossing Multiple Timestamps 5 11 12 13 
+MODE: TL
+NUM_TRADERS: 20
+NUM_STOCKS: 25
+0 SELL T0 S0 $50 #30
+1 BUY T1 S0 $50 #10
+2 BUY T2 S0 $50 #10
+3 BUY T3 S0 $50 #10
+
+
+
+

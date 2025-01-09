@@ -1,0 +1,9 @@
+COMMENT: Orders Spanning a Long Time Period 9 11 12 13 
+MODE: TL
+NUM_TRADERS: 2
+NUM_STOCKS: 1
+0 SELL T0 S0 $50 #10
+1000000 BUY T1 S0 $50 #10
+
+
+

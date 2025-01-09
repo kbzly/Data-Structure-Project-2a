@@ -1,0 +1,8 @@
+COMMENT: Orders with Zero Prices FAIL
+MODE: TL
+NUM_TRADERS: 2
+NUM_STOCKS: 1
+0 SELL T0 S0 $0 #10
+1 BUY T1 S0 $0 #10
+
+

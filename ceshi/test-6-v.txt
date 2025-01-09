@@ -1,0 +1,12 @@
+COMMENT: High Volume Partial Fulfillment 5 13
+MODE: TL
+NUM_TRADERS: 20
+NUM_STOCKS: 25
+0 SELL T0 S0 $10 #100
+1 BUY T1 S0 $15 #30
+2 BUY T2 S0 $15 #50
+3 BUY T3 S0 $15 #40
+
+
+
+

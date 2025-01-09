@@ -1,0 +1,11 @@
+COMMENT: Identical Orders from Same Trader 5 11 12 13 
+MODE: TL
+NUM_TRADERS: 20
+NUM_STOCKS: 25
+0 BUY T0 S0 $50 #10
+0 BUY T0 S0 $50 #10
+0 SELL T1 S0 $50 #20
+
+
+
+

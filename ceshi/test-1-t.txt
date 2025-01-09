@@ -1,0 +1,7 @@
+COMMENT: Orders with Identical Timestamps and Traders 6 10 11 12 13 
+MODE: TL
+NUM_TRADERS: 20
+NUM_STOCKS: 25
+0 BUY T0 S0 $50 #10
+0 SELL T0 S0 $50 #10
+

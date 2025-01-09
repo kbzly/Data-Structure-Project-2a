@@ -1,0 +1,9 @@
+COMMENT: Time Traveler with No Profit Opportunity 6 13 
+MODE: TL
+NUM_TRADERS: 20
+NUM_STOCKS: 25
+0 BUY T0 S0 $50 #10
+1 SELL T1 S0 $60 #10
+
+
+
